@@ -17,7 +17,7 @@ from rich.markdown import Markdown
 
 console = Console()
 
-# -------- settings you might tweak later --------
+# -------- settings you might tweak later -----
 MODEL = "gemini-2.0-flash"
 MAX_TURNS_TO_REMEMBER = 4  
 
